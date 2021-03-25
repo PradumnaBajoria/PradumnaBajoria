@@ -1,6 +1,8 @@
 <h1 align="center">Hey There 👋, I'm Pradumna Bajoria</h1>
 <h3 align="center">Currently studying B.tech, and pursuing my interest in web development and coding.</h3>
 
+<img align="right" alt="GIF" src="https://media.tenor.com/images/a8112d7d456869eea83af990bb91894c/tenor.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradumnabajoria&label=Profile%20views&color=0e75b6&style=flat" alt="pradumnabajoria" /> </p>
 
 - 🌱 I’m currently learning **React**
