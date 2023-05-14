@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradumnabajoria&label=Profile%20views&color=0e75b6&style=flat" alt="pradumnabajoria" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m a Frontend developer having specialization in **ReactJS**
 
 - 💬 Ask me about **my project, myself, interests.**
 
-- 📫 How to reach me **18bce179@nirmauni.ac.in**
+- 📫 How to reach me **pradumnabajoria@gmail.com**
 
-- 📄 Check my Resume on [https://pradumnabajoria.github.io/Resume/](https://pradumnabajoria.github.io/Resume/)
+- 📄 Check my Resume on [https://pradumna.netlify.app/](https://pradumna.netlify.app/)
 
 - ⚡ Fun fact **There is a programming language called Cow(which literally uses variation of 'moo' to code), it is one of the 5 toughest language out there. And yes there's more like that.**
 
